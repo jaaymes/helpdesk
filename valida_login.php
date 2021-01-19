@@ -12,7 +12,7 @@ $usuario_perfil_id = null;
 $perfis = array(1 => 'Administrativo', 2 => 'Usuário');
 
 $usuarios_app = array(
-    array('id' => 1, 'email' => 'jaaymes@gmail.com', 'senha' => '123', 'perfil_id' => 1),
+    array('id' => 1, 'email' => 'adm@adm.com', 'senha' => 'adm', 'perfil_id' => 1),
     array('id' => 2, 'email' => '1@1.com', 'senha' => '1', 'perfil_id' => 2),
     array('id' => 3, 'email' => '2@2.com', 'senha' => '2', 'perfil_id' => 2),
 );
